@@ -1,2 +1,2 @@
 # bearbird.github.io
-http://bearbird.github.io
+http://BearBird-XL.github.io
