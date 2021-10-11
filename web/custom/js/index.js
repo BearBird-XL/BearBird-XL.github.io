@@ -1,0 +1,1 @@
+document.getElementById("span-date").innerText = new Date().toLocaleDateString();
