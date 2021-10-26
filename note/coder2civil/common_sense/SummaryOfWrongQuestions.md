@@ -1,5 +1,5 @@
 ---
-permalink: /coder2civil/common_sense/SummaryOfWrongQuestions.md
+permalink: /coder2civil/common_sense/SummaryOfWrongQuestions.html
 ---
 
 ## Common Sense
