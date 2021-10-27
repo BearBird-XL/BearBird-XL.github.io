@@ -1,5 +1,5 @@
 ---
-permalink: /coder2civil/common_sense/SummaryOfWrongQuestions.html
+permalink: /coder2civil/common_sense/Politics.html
 ---
 
 ## Common Sense
@@ -9,7 +9,7 @@ permalink: /coder2civil/common_sense/SummaryOfWrongQuestions.html
 - 矛盾是事物发展的动力和源泉，内因是事物发展的内在动力。
 - 根据马克思历史唯物主义的观点，人民群众是历史的主体，是历史的创造者，是历史变更的决定性力量，人民群众在创造历史的过程中会受到诸多因素的影响，其中最根本的还是生产力和生产关系、经济基础和上层建筑之间的关系
 ##### 概念含义：
-- 
+-
 - 邓小平提出：科学技术是第一生产力，是先进生产力的集中体现和主要标志，也是人类文明进步的基石
 - 主观与客观具体的历史的统一是指：主观要符合客观，想问题、办事情要坚持一切从实际出发
   客观唯心主义。
@@ -24,7 +24,7 @@ permalink: /coder2civil/common_sense/SummaryOfWrongQuestions.html
 > 生死有命，富贵在天
 
 主观唯心主义
-> 物是观念的集合 
+> 物是观念的集合
 
 唯物主义发展观
 > 事异则事异，事异则备变
@@ -34,11 +34,11 @@ permalink: /coder2civil/common_sense/SummaryOfWrongQuestions.html
 
 朴素唯物主义
 > 气者，理之依也
-> 
+>
 客观唯心主义
 > 理生万物
 >
 实践与认识的关系，属于唯物主义
 >不如虎穴焉得虎子
-> 
+>
 > 秀才不出门，全知天下事
