@@ -9,4 +9,4 @@ permalink: /note/coder2civil/index.html
 [政治常识](/common_sense/Politics.md)
 
 ## 申论
-[申论](/shenlun/index.html)
+[申论](/shenlun/index.md)
