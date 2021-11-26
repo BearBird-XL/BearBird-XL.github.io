@@ -9,3 +9,6 @@ permalink: /note/coder2civil/shenlun/index.html
 ["2020国家地市级申论.pdf"](2020国家地市级申论.pdf)
 
 [2020江苏申论B卷.pdf](2020江苏申论B卷.pdf)
+
+[2021浙江申论A卷.pdf](2021浙江申论A卷.pdf)
+
