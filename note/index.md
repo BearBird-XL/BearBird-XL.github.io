@@ -83,7 +83,7 @@ permalink: /note/index.html
 
 ["039--加餐-Java面试通关攻略.md"](/java/039--加餐-Java面试通关攻略.md)
 
-["Offer"](/java/Offer)
+["anna maple"](../index.html)
 
-["Offer"](/java/Offer)
+["this"](index.md)
 
